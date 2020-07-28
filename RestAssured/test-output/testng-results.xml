@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-28T13:12:21 EET" name="Suite" finished-at="2020-07-28T13:12:23 EET" duration-ms="1692">
+    <groups>
+    </groups>
+    <test started-at="2020-07-28T13:12:21 EET" name="Test" finished-at="2020-07-28T13:12:23 EET" duration-ms="1692">
+      <class name="test.RestAssured.Parameterization">
+        <test-method signature="test2(java.lang.String, java.lang.String, int)[pri:0, instance:test.RestAssured.Parameterization@45018215]" started-at="2020-07-28T13:12:21 EET" name="test2" data-provider="data" finished-at="2020-07-28T13:12:23 EET" duration-ms="1539" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HodaIbrahim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[stylist]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[212121]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test4(int)[pri:0, instance:test.RestAssured.Parameterization@45018215]" started-at="2020-07-28T13:12:23 EET" name="test4" finished-at="2020-07-28T13:12:23 EET" duration-ms="34" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5(int)[pri:0, instance:test.RestAssured.Parameterization@45018215]" started-at="2020-07-28T13:12:23 EET" name="test5" data-provider="id" finished-at="2020-07-28T13:12:23 EET" duration-ms="26" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[21212]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method signature="test5(int)[pri:0, instance:test.RestAssured.Parameterization@45018215]" started-at="2020-07-28T13:12:23 EET" name="test5" data-provider="id" finished-at="2020-07-28T13:12:23 EET" duration-ms="25" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2121]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method signature="test5(int)[pri:0, instance:test.RestAssured.Parameterization@45018215]" started-at="2020-07-28T13:12:23 EET" name="test5" data-provider="id" finished-at="2020-07-28T13:12:23 EET" duration-ms="21" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[212121]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+      </class> <!-- test.RestAssured.Parameterization -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
